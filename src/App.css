@@ -1,0 +1,247 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main_navbar {
+    background-color: yellow !important;
+}
+
+.cont:hover {
+    color: gray;
+}
+
+.cont2 h5 {
+    padding: 10px 15px;
+}
+
+.cont2 h5:hover {
+    box-shadow: 0px 2px 2px gray;
+}
+
+
+
+
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.maincontainer {
+    background-color: rgb(243, 243, 243);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* padding: 25px; */
+}
+
+.maincontainer .col_1 {
+    background-color: white;
+    border-radius: 20px;
+    padding: 25px;
+    margin: 10px;
+
+}
+
+.col1212 {
+    
+    display: flex;
+    justify-content: space-around;
+}
+
+.col1212 img {
+    
+    margin: 5px;
+}
+
+.col1010 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* padding: 10px; */
+}
+
+.col1010 button{
+    margin-left: 30%;
+    padding: 10px;
+    background-color: darkgrey;
+    border: none;
+    border-radius: 10px;
+    font-size: 1em;
+    font-weight: 700;
+}
+
+
+
+
+.cardMedia{
+    margin: 10px auto !important;
+    width: 40% !important;
+}
+
+
+
+
+
+.btnClass{
+    margin: 5px !important;
+    
+}
+
+.textClass{
+    font-size: 12px !important;
+    font-weight: 700 !important;
+}
+
+
+
+
+
+.card_access{
+    background-color: rgb(229, 230, 230);
+    padding: 10px;
+}
+.Card_12{
+    border-radius: 20px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer-background{
+    width: 100%;
+    height: 100%;
+    background-color: #f8f8f8;
+    margin-top: 50px;
+  
+  }
+  .extra_Class{
+    padding: 20px;
+  }
+  .extra_Class img {
+  padding: 20px;
+}
+.extra_Class p {
+    font-size: 20px;
+    font-weight: 700;
+padding-bottom: 20px;
+}
+.extra_Class a {
+    font-size: 20px;
+    font-weight: 700;
+padding-bottom: 20px;
+}
+  
+  .anchor a{
+    color: #737373;
+    text-decoration: none;
+  }
+  
+  .anchor a:hover{
+    color: rgb(186, 203, 255);
+  }
+  
+  .input-field{
+    padding: 20px;
+    border: none;
+    /* border-bottom: 1px solid black; */
+  outline: none;
+  background-color: #f8f8f8;
+  margin-top: 20px;
+  color: #737373;
+  
+  
+  }
+  
+  .search-icon{
+  
+  margin-left: 40px;
+  
+  }
+  
+  .footer-inner-background{
+    width: 100%;
+    height: 80px;
+    background-color: #EBEBEB;
+    margin-top: 100px;
+    
+  }
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
